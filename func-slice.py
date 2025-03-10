@@ -10,3 +10,6 @@ print(cincoPrimeiros(nome)) # Pytho
 
 cincoPrimeiros_2 = lambda s: s[1:6]
 print(cincoPrimeiros_2(nome)) # ython
+
+cincoUltimos = lambda s: s[-3:]
+print(cincoUltimos(nome)) # hon
